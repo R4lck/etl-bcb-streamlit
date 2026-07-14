@@ -1,0 +1,6 @@
+pandas
+python-bcb
+sqlalchemy
+psycopg2-binary
+streamlit
+python-dotenv
