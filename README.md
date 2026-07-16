@@ -1,4 +1,5 @@
 # 📊 Monitor Econômico Brasil (ETL & Dashboard)
+**Acesse o dashboard aqui:** https://etl-bcb-app.streamlit.app/
 
 ## Descrição do Projeto
 Este projeto é um pipeline de dados automatizado que coleta indicadores econômicos brasileiros (Selic, IPCA e Dólar) diretamente da API do Banco Central do Brasil (SGS). Os dados são transformados, 
